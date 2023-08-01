@@ -3052,6 +3052,11 @@ List of Available Rules
    Part of rule sets `@PER <./ruleSets/PER.rst>`_ `@PER-CS1.0 <./ruleSets/PER-CS1.0.rst>`_ `@PSR12 <./ruleSets/PSR12.rst>`_ `@PhpCsFixer <./ruleSets/PhpCsFixer.rst>`_ `@Symfony <./ruleSets/Symfony.rst>`_
 
    `Source PhpCsFixer\\Fixer\\ClassNotation\\SingleTraitInsertPerStatementFixer <./../src/Fixer/ClassNotation/SingleTraitInsertPerStatementFixer.php>`_
+-  `space_after_keyword <./rules/whitespace/space_after_keyword.rst>`_
+
+   Ensure single space after a keyword.
+
+   `Source PhpCsFixer\\Fixer\\Whitespace\\SpaceAfterKeywordFixer <./../src/Fixer/Whitespace/SpaceAfterKeywordFixer.php>`_
 -  `space_after_semicolon <./rules/semicolon/space_after_semicolon.rst>`_
 
    Fix whitespace after a semicolon.

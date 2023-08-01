@@ -894,6 +894,9 @@ Whitespace
 - `single_blank_line_at_eof <./whitespace/single_blank_line_at_eof.rst>`_
 
   A PHP file without end tag must always end with a single empty line feed.
+- `space_after_keyword <./whitespace/space_after_keyword.rst>`_
+
+  Ensure single space after a keyword.
 - `statement_indentation <./whitespace/statement_indentation.rst>`_
 
   Each statement must be indented.
